@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A82FF7&center=true&vCenter=true&width=940&lines=.+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Deep+Learning+Enthusiast+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%8C%9F;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A82FF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%92%BB;Web+Development+Enthusiast+%F0%9F%8C%90;DSA+%26+Problem+Solver+%F0%9F%A7%A9;AI%2FML+Explorer+%F0%9F%A4%96;Building+Scalable+Applications+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br>
@@ -20,7 +20,7 @@
 const shaista = {
     pronouns: "she" | "her",
     code: ["Python", "JavaScript", "C++", "Java"],
-    askMeAbout: ["AI/ML", "Deep Learning", "Web Dev", "Network Automation"],
+    askMeAbout: ["Full Stack Development", "AI/ML", "DSA", "Web Dev"],
     technologies: {
         machineLearning: ["TensorFlow", "PyTorch", "Scikit-learn", "Hugging Face"],
         frontEnd: ["React", "Next.js", "HTML", "CSS"],
@@ -29,7 +29,7 @@ const shaista = {
         cloud: ["GCP", "Docker"],
         tools: ["Git", "Jupyter", "VS Code", "Tableau"]
     },
-    currentFocus: "Building Production-Ready AI Systems",
+    currentFocus: "Full Stack Development & Building Production-Ready Systems",
     funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
 ```
@@ -76,11 +76,13 @@ const shaista = {
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
-### 🖥️ Languages
+### 🖥️ Languages & DSA
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 </div>
 
