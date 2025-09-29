@@ -99,8 +99,7 @@ const shaista = {
 <td width="50%">
 <h3 align="center">🤖 Fine-tuned Open-Source LLM</h3>
 <div align="center">  
-<a href="https://github.com/yourusername/project-repo" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=llm-finetuning&theme=radical" alt="LLM Project" /></a>
-<br><br>
+<br>
 <p><strong>Python, PyTorch, Hugging Face, CUDA</strong></p>
 <p>Fine-tuned pre-trained LLMs with custom prompt engineering achieving <strong>12% accuracy improvement</strong>. Deployed for real-time inference.</p>
 </div>
@@ -109,8 +108,7 @@ const shaista = {
 <td width="50%">
 <h3 align="center">🛡️ Quantum-Classical IDS</h3>
 <div align="center">  
-<a href="https://github.com/yourusername/project-repo" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=quantum-ids&theme=radical" alt="IDS Project" /></a>
-<br><br>
+<br>
 <p><strong>Python, XGBoost, Qiskit, Streamlit</strong></p>
 <p>Hybrid intrusion detection system achieving <strong>99.9% accuracy</strong> with interactive Streamlit dashboard.</p>
 </div>
@@ -121,8 +119,7 @@ const shaista = {
 <td width="50%">
 <h3 align="center">📄 Research Paper Implementation</h3>
 <div align="center">  
-<a href="https://github.com/yourusername/project-repo" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=research-implementation&theme=radical" alt="Research Project" /></a>
-<br><br>
+<br>
 <p><strong>TensorFlow, PyTorch, NumPy</strong></p>
 <p>Reproduced SOTA ML algorithm from scratch with <strong>+10% improvement</strong> over baseline accuracy.</p>
 </div>
@@ -131,8 +128,7 @@ const shaista = {
 <td width="50%">
 <h3 align="center">🌐 Network Monitoring System</h3>
 <div align="center">  
-<a href="https://github.com/yourusername/project-repo" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=network-monitor&theme=radical" alt="Network Project" /></a>
-<br><br>
+<br>
 <p><strong>Python, Flask, Netmiko, MySQL</strong></p>
 <p>Automated network monitoring with real-time dashboards for device tracking and performance metrics.</p>
 </div>
@@ -143,8 +139,7 @@ const shaista = {
 <td width="50%">
 <h3 align="center">📊 Customer Churn Prediction</h3>
 <div align="center">  
-<a href="https://github.com/yourusername/project-repo" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=churn-prediction&theme=radical" alt="Churn Project" /></a>
-<br><br>
+<br>
 <p><strong>Scikit-learn, Pandas, Matplotlib</strong></p>
 <p>End-to-end ML pipeline achieving <strong>~80% accuracy</strong> with actionable insights to reduce attrition.</p>
 </div>
@@ -153,8 +148,7 @@ const shaista = {
 <td width="50%">
 <h3 align="center">📈 Sales Analytics Dashboard</h3>
 <div align="center">  
-<a href="https://github.com/yourusername/project-repo" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=sales-dashboard&theme=radical" alt="Dashboard Project" /></a>
-<br><br>
+<br>
 <p><strong>Python, SQL, Tableau, Power BI</strong></p>
 <p>Analyzed 50k+ records with interactive dashboards highlighting KPIs and regional insights.</p>
 </div>
@@ -173,16 +167,16 @@ const shaista = {
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SHAISTTAA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAISTTAA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAISTTAA&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAISTTAA&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <br>
@@ -210,7 +204,7 @@ const shaista = {
   
 ### 💡 *"Building the future, one commit at a time"*
 
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/SHAISTTAA/count.svg)
 
 </div>
 
